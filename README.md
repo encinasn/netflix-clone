@@ -1,6 +1,6 @@
 ## Fullstack Netflix Clone with NextJS, TailwindCSS, Prisma & MongoDB
 
-![image](https://encinasn.com/images/overview.png)
+![image](https://netflix.encinasn.com/images/overview.png)
 
 Features:
 
